@@ -2,12 +2,10 @@
 # <ion-icon name="[[name]]"></ion-icon>
 # name = "https://example.com/"
 
-logo-facebook = "https://facebook.com/"
-logo-twitter = "https://twitter.com/"
-logo-instagram = "https://instagram.com/"
-logo-linkedin = "https://www.linkedin.com/"
-logo-github = "https://github.com/ivansaul"
-logo-dribbble = "https://dribbble.com/"
+logo-facebook = "https://www.facebook.com/wjie.l/"
+logo-linkedin = "https://www.linkedin.com/in/wjielim/"
+logo-github = "https://github.com/wjlim-14"
+logo-whatsapp = "https://wa.me/+60125681547"
 # logo-figma = "figma.com/"
 # logo-youtube = "https://youtube.com/"
 # logo-reddit = "https://www.reddit.com/"

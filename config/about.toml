@@ -2,11 +2,11 @@ name = "Lim Wei Jie"
 rol = "AI/ML | Fintech | Blockchain | BI Analyst"
 email = "jaylim.wjie@gmail.com"
 phone = "+60 12-5681547"
-birthday = "-"
+# birthday = "-"
 location = "Pulau Pinang, Malaysia"
 avatar = "./config/assets/avatars/my-avatar.png"
 username = "wjlim-14" # <-- github user name
-googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199666.5651251294!2d-121.58334177520186!3d38.56165006739519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C%20CA%2C%20USA!5e0!3m2!1sen!2sbd!4v1647608789441!5m2!1sen!2sbd" 
+googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254234.20365122586!2d100.1981926805238!3d5.354323783384452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304a9403095390dd%3A0x29c305a5f38f633f!2sPenang!5e0!3m2!1sen!2smy!4v1710568028707!5m2!1sen!2smy" 
 presentation = """
 I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
