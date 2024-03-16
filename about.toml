@@ -1,0 +1,14 @@
+name = "Lim Wei Jie"
+rol = "AI/ML | Fintech | Blockchain | BI Analyst"
+email = "jaylim.wjie@gmail.com"
+phone = "+60 12-5681547"
+# birthday = "-"
+location = "Pulau Pinang, Malaysia"
+avatar = "./config/assets/avatars/my-avatar.png"
+username = "wjlim-14" # <-- github user name
+googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254234.20365122586!2d100.1981926805238!3d5.354323783384452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304a9403095390dd%3A0x29c305a5f38f633f!2sPenang!5e0!3m2!1sen!2smy!4v1710568028707!5m2!1sen!2smy" 
+presentation = """
+I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+"""
